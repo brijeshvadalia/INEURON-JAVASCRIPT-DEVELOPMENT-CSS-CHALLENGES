@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #d2dee0;
+    font-family: sans-serif;
+}
+
+.btn-wrapper {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.btn {
+    background-image: linear-gradient( #2a4579, #0b1f53);
+    padding: 20px 30px;
+    border-radius: 50px;
+    font-size: 20px;
+    border: none;
+    box-shadow: #000 0px 20px 30px -10px;
+}
+
+.btn-text-one {
+    text-transform: uppercase;
+    background: transparent;
+    color: #fff;
+}
+
+.btn-text-two {
+    display: none;
+}

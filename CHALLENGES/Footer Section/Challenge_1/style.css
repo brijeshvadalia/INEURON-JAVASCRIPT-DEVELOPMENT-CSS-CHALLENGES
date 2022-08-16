@@ -1,0 +1,55 @@
+* {
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.footer {
+    padding: 0px 150px;
+    margin-top: 230px;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.content {
+    width: 100%;
+    float: left;
+}
+
+.content .services {
+    width: 25%;
+    float: left;
+}
+
+.content .social-media {
+    width: 25%;
+    float: left;
+}
+
+.content .links {
+    width: 25%;
+    float: left;
+}
+
+.content .details {
+    width: 25%;
+    float: left;
+}
+
+footer {
+    text-align: center;
+    padding: 50px 0px;
+}
+
+footer hr {
+    margin-bottom: 50px;
+}

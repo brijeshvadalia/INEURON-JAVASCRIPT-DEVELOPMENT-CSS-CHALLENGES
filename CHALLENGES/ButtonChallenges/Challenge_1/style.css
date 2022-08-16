@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+span>b {
+    background-color: #4d96ec;
+    border-radius: 4px;
+    font-size: 20px;
+    color: #fff;
+    padding: 15px 30px;
+}
+
+.badge {
+    vertical-align: super;
+    font-size: 15px;
+    background-color: #242b2e;
+    color: #fff;
+    border-radius: 100%;
+    position: relative;
+    top: -21px;
+    left: -22px;
+    padding: 5px 10px;
+}

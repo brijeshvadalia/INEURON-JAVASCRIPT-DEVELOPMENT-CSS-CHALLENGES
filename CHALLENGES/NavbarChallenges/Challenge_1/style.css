@@ -1,0 +1,29 @@
+nav {
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    background-color: #161b1f;
+    width: 35%;
+    left: 35%;
+    padding: 25px 0px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-item {
+    margin: 20px;
+}
+
+:nth-child(3) {
+    color: #72f5bc;
+}
+
+
+/* a:hover {
+    color: #72f5bc;
+} */
